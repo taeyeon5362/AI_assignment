@@ -73,7 +73,7 @@ Fully-connected 인공 신경망을 이용한 MNIST(손 글씨 이미지) 영�
 #### 과제 목표
 - 모델의 성능 비교 분석
   - DQN Hidden Layer Neuron 수, Replay Buffer Sample 개수
-  - Target Update 주기 별 성능 비교
+  - Target Update 주기 별 성능 비교
 - 모델의 성능 분석 평가
   - 그래프 추이에 대한 분석
 
