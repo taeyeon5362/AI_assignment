@@ -1,4 +1,4 @@
-![image](https://github.com/taeyeon5362/AI_assignment/assets/51779879/58a92eea-324a-4606-82c6-67b5c0e23d8c)# AI_assignment
+# AI_assignment
 
 ## Heuristic Search for 8 Puzzle
 ### 8 puzzle 상태 공간 탐색 과제
@@ -7,6 +7,7 @@
 
 #### 탐색 알고리즘
 Greedy Best First Search, Astar
+
 
 
 ## Game Search for Tic-Tac-Toe
@@ -20,6 +21,7 @@ Negamax를 이용하여 Tic-Tac-Toe 게임 탐색하기
 3. Transposition Table을 이용했을 때의 속도 분석
 
 
+
 ## Satisfaction Problem Solving
 ### 제약 만족 문제(CSP)
 #### 과제 주제
@@ -29,6 +31,7 @@ Constraint Satisfaction Problem Solving 방법을 사용해서 문제 해결
 1.  제약 조건을 만족하는 숫자 할당 문제 해결
 2.  숫자 할당 문제에서 휴리스틱 종류별 성능 분석
 3. 지도 색칠 문제를 CSP 방법으로 해결
+
 
 
 ## Automated Planning with Pyperplan
@@ -51,6 +54,7 @@ Constraint Satisfaction Problem Solving 방법을 사용해서 문제 해결
 2. 탐색 알고리즘 및 휴리스틱의 변경에 따른 성능 비교
 
 
+
 ## Neural Network for MNIST Image Classification
 ### 딥러닝을 이용한 영상 분류 
 #### 과제 주제
@@ -58,6 +62,7 @@ Fully-connected 인공 신경망을 이용한 MNIST(손 글씨 이미지) 영�
 
 #### 과제 목표
 하이퍼파라미터에 따른 인공 신경망의 성능 분석
+
 
 
 ## DRL for Controlling Cartpole
@@ -71,6 +76,8 @@ Fully-connected 인공 신경망을 이용한 MNIST(손 글씨 이미지) 영�
   - Target Update 주기 별 성능 비교
 - 모델의 성능 분석 평가
   - 그래프 추이에 대한 분석
+
+
 
 ## K Means Clustering
 ### K Means 군집화
